@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8489d24c.css",
+    "main.js": "/static/js/main.7fa0d0f9.js",
+    "static/js/787.e413badc.chunk.js": "/static/js/787.e413badc.chunk.js",
+    "static/media/Jiomart.png": "/static/media/Jiomart.c8df3f49449ffde92ea4.png",
+    "static/media/myntra.png": "/static/media/myntra.651ce5af15bc292f1591.png",
+    "static/media/Portfolio.png": "/static/media/Portfolio.86b40f49a732dac499bc.png",
+    "static/media/pharmacy.png": "/static/media/pharmacy.6bd2a54ecf44424e232d.png",
+    "static/media/MyResume.pdf": "/static/media/MyResume.2f90b7e532336fac07a0.pdf",
+    "static/media/react.png": "/static/media/react.22d1f2096ed82cab7a8a.png",
+    "static/media/hero.jpg": "/static/media/hero.742bbcdf9dfd6874d813.jpg",
+    "static/media/git.png": "/static/media/git.dbd2947c01fd99256fda.png",
+    "static/media/github.png": "/static/media/github.f188e75061ea931a2cfb.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.8489d24c.css.map": "/static/css/main.8489d24c.css.map",
+    "main.7fa0d0f9.js.map": "/static/js/main.7fa0d0f9.js.map",
+    "787.e413badc.chunk.js.map": "/static/js/787.e413badc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8489d24c.css",
+    "static/js/main.7fa0d0f9.js"
+  ]
+}
