@@ -180,7 +180,7 @@ export const Navbar = ({
             display={{ md: "none" }}
             style={Theme === "light" ? light : dark}
           >
-            <Stack as={"nav"} spacing={4} color="#3197" fontWeight="600">
+            <Stack as={"nav"} spacing={4} color="teal" fontWeight="600">
               <Text onClick={ProfileRef} cursor="pointer">
                 Home
               </Text>
