@@ -392,7 +392,7 @@ export const Project = () => {
                 </Button>
               </a>
               <a
-                href="https://653654a73f8e7f009d227893--bespoke-raindrop-bfcf0e.netlify.app/"
+                href="https://joyful-ring-9720.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
