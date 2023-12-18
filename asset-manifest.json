@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.ec4751af.css",
-    "main.js": "/static/js/main.2f37c4b9.js",
+    "main.js": "/static/js/main.c453334f.js",
     "static/js/787.fdad2076.chunk.js": "/static/js/787.fdad2076.chunk.js",
     "static/media/Jiomart.png": "/static/media/Jiomart.c8df3f49449ffde92ea4.png",
     "static/media/myntra.png": "/static/media/myntra.651ce5af15bc292f1591.png",
     "static/media/Portfolio.png": "/static/media/Portfolio.86b40f49a732dac499bc.png",
     "static/media/pharmacy.png": "/static/media/pharmacy.6bd2a54ecf44424e232d.png",
-    "static/media/MyResume.pdf": "/static/media/MyResume.2f90b7e532336fac07a0.pdf",
+    "static/media/MyResume.pdf": "/static/media/MyResume.99c5aac7230af7faae3e.pdf",
     "static/media/react.png": "/static/media/react.22d1f2096ed82cab7a8a.png",
     "static/media/hero.jpg": "/static/media/hero.742bbcdf9dfd6874d813.jpg",
     "static/media/git.png": "/static/media/git.dbd2947c01fd99256fda.png",
@@ -18,11 +18,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.ec4751af.css.map": "/static/css/main.ec4751af.css.map",
-    "main.2f37c4b9.js.map": "/static/js/main.2f37c4b9.js.map",
+    "main.c453334f.js.map": "/static/js/main.c453334f.js.map",
     "787.fdad2076.chunk.js.map": "/static/js/787.fdad2076.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec4751af.css",
-    "static/js/main.2f37c4b9.js"
+    "static/js/main.c453334f.js"
   ]
 }
